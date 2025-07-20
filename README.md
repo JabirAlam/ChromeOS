@@ -3,7 +3,7 @@
 <img width="961" height="960" alt="66d67304d278d-ChromeOS" src="https://github.com/user-attachments/assets/d491c351-cac9-4b19-84fa-64dcdb4a8292" />
 
 
-Have you ever wanted to experience ChromeOS on your hardware? well.. the https://github.com/sebanc/brunch framework does so, it patches the initial ChromeOS package. so, i'm gonna show it to you how to do it! Now assuming you don't wanna dual boot and your using Windows, you need a 16 GB USB or larger. you can use the guide below:
+Have you ever wanted to experience ChromeOS on your hardware? well.. the https://github.com/sebanc/brunch framework does just that! it patches the initial ChromeOS package. so, i'm gonna show it to you how to do it! Now assuming you don't wanna dual boot and your using Windows, you need a 16 GB USB or larger. you can use the guide below:
 
 # Guide for Intel CPU users:
 
