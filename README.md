@@ -3,11 +3,11 @@
 <img width="961" height="960" alt="66d67304d278d-ChromeOS" src="https://github.com/user-attachments/assets/d491c351-cac9-4b19-84fa-64dcdb4a8292" />
 
 
-Have you ever wanted to experience ChromeOS on your hardware? well.. the https://github.com/sebanc/brunch framework does just that! it patches the initial ChromeOS package. so, i'm gonna show it to you how to do it! Now assuming you don't wanna dual boot and your using Windows, you need a 16 GB USB or larger. you can use the guide below:
+Have you ever wanted to experience ChromeOS on your hardware? well.. the https://github.com/sebanc/brunch framework does just that! it patches the initial ChromeOS package. so, i'm gonna show it to you how to do it! Now assuming you don't wanna dual boot and your using Windows, you need a 16 GB USB or larger. i'll add guides for Linux/MacOS later and non dual booting. you can use the guide below:
 
 # Guide for Intel CPU users:
 
-Well, You gotta see what your CPU architecture is. to see that, if your on windows. go to windows task manager. if not, you can search it on google on how to find your architecture. then go to the performance tab, on the right side of the corner, you can see your Architecture! Be sure to download the latest ChromeOS recovery image. i'll add guides for Linux/MacOS later and non dual booting.
+Well, You gotta see what your CPU architecture is. to see that, if your on windows. go to windows task manager. if not, you can search it on google on how to find your architecture. then go to the performance tab, on the right side of the corner, you can see your Architecture! Be sure to download the latest ChromeOS recovery image.
 
 for 8th gen & 9th gen: "shyvana" recovery image is the most stable, you can get the recovery image from here: https://cros.tech/device/shyvana/.
 for 10th gen: "jinlon" recovery image is most stable, you can get the recovery image from here: https://cros.tech/device/jinlon/.
