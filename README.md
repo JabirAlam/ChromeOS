@@ -7,7 +7,7 @@ Have you ever wanted to experience ChromeOS on your hardware? well.. the https:/
 
 # Guide for Intel CPU users:
 
-Well, You gotta see what your CPU architecture is. to see that, if your on windows. go to windows task manager. if not, you can search it on google on how to find your architecture. then go to the performance tab, on the right side of the corner, you can see your Architecture! Be sure to download the latest ChromeOS recovery image.
+Well, You gotta see what your CPU architecture is. to see that, if your on windows. go to windows task manager. if not, you can search it on google on how to find your architecture. then go to the performance tab, on the right side of the corner, you can see your Architecture! Be sure to download the latest ChromeOS recovery image. i'll add guides for Linux/MacOS later and non dual booting.
 
 for 8th gen & 9th gen: "shyvana" recovery image is the most stable, you can get the recovery image from here: https://cros.tech/device/shyvana/.
 for 10th gen: "jinlon" recovery image is most stable, you can get the recovery image from here: https://cros.tech/device/jinlon/.
